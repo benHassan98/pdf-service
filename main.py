@@ -12,4 +12,3 @@ page.insert_htmlbox(text_rect, text)
 page.insert_image(image_rect, filename="./signature.png")
 
 doc.save("text.pdf")
-
